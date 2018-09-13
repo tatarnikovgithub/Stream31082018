@@ -1,4 +1,4 @@
-package ru.geekbrains.algjava.lesson3;
+package ru.geekbrains.algjava.lesson3.online;
 
 public class Brackets {
     private static void error(char ch, int i) {

@@ -1,4 +1,4 @@
-package ru.geekbrains.algjava.lesson3;
+package ru.geekbrains.algjava.lesson3.online;
 
 public class Stack {
     private int maxSize;
@@ -10,6 +10,7 @@ public class Stack {
         this.stack = new int[size];
         this.head = -1;
     }
+
 
     public boolean isEmpty(){
         return head == -1;

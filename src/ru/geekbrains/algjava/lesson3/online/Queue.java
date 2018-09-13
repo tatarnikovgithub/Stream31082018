@@ -1,6 +1,46 @@
-package ru.geekbrains.algjava.lesson3;
+package ru.geekbrains.algjava.lesson3.online;
 
 public class Queue {
+    public int getMaxSize() {
+        return maxSize;
+    }
+
+    public void setMaxSize(int maxSize) {
+        this.maxSize = maxSize;
+    }
+
+    public int[] getQueue() {
+        return queue;
+    }
+
+    public void setQueue(int[] queue) {
+        this.queue = queue;
+    }
+
+    public int getHead() {
+        return head;
+    }
+
+    public void setHead(int head) {
+        this.head = head;
+    }
+
+    public int getTail() {
+        return tail;
+    }
+
+    public void setTail(int tail) {
+        this.tail = tail;
+    }
+
+    public int getItems() {
+        return items;
+    }
+
+    public void setItems(int items) {
+        this.items = items;
+    }
+
     private int maxSize;
     private int[] queue;
     private int head;

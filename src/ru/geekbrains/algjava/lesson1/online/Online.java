@@ -1,4 +1,4 @@
-package ru.geekbrains.algjava.lesson1;
+package ru.geekbrains.algjava.lesson1.online;
 
 public class Online {
     static void methodA(int i){ // int i; i = 10;

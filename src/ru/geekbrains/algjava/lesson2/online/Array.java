@@ -1,4 +1,4 @@
-package ru.geekbrains.algjava.lesson2;
+package ru.geekbrains.algjava.lesson2.online;
 
 public class Array {
     private int[] arr;

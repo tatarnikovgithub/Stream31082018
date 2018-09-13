@@ -1,4 +1,4 @@
-package ru.geekbrains.algjava.lesson1;
+package ru.geekbrains.algjava.lesson1.online;
 
 public class MyClass extends Object{
     private int a = 15;

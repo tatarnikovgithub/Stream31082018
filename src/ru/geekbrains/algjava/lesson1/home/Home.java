@@ -1,4 +1,4 @@
-package ru.geekbrains.algjava.lesson1;
+package ru.geekbrains.algjava.lesson1.home;
 
 public class Home {
     private static int power(int base, int sign){
