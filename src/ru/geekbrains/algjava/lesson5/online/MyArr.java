@@ -18,6 +18,7 @@ public class MyArr {
         curIn = (low + high) / 2;
         if (arr[curIn] == searchKey)
             return curIn;
+        // вывод значения
 //            return arr[curIn];
         else if (low > high)
             return size;
